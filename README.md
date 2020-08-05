@@ -1,4 +1,4 @@
-# distracted-driver-detection-cnn
+# Distracted Driver Detection using CNN
 Can computer vision spot distracted drivers?
 
 1)The algorithm was executed in Kaggle R notebook.
